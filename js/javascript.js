@@ -20,3 +20,8 @@ function fadeClick(element) {
     $(".fade").fadeOut();
     $(element).fadeIn();
 }
+
+//Pausing video
+
+
+
